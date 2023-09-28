@@ -1,0 +1,7 @@
+Which debugging technique do you like to use? Why?
+
+I like two kinds of debugging techniques. First is Backtracking, the second is Collab Debugging.
+Most of my errors when I code is something like using a cout statement for a Java program or 
+misspelling the word "import" which is why I'm thankful that the compiler would point it out.
+On the other hand, Collab Debugging is also helpful to me because I often make dumb mistakes
+like initializing i to 0 instead of -1 and wondering why there's a stack overflow error.
