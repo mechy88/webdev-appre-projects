@@ -1,0 +1,3 @@
+Which debugging technique do you like to use? Why?
+
+I like using Backtracking as my main method of debugging. I trust the compiler. All hail the compiler. The error messages point to a line and have corresponding descriptions of what caused the error. My workflow is reading the error message -> google -> chatgpt -> stack overflow.
