@@ -1,0 +1,17 @@
+Frontend:
+HTML https://html.spec.whatwg.org/multipage/
+CSS https://developer.mozilla.org/en-US/docs/Web/CSS
+Javascript https://tc39.es/ecma262/
+TypeScript https://www.typescriptlang.org/docs/
+Vue 3 https://vuejs.org/guide/introduction.html
+Nuxt 3 https://nuxt.com/docs
+Quasar https://quasar.dev/
+
+
+Backend
+Javascript https://tc39.es/ecma262/
+TypeScript https://www.typescriptlang.org/docs/
+Node https://nodejs.org/en/docs
+MongoDB https://www.mongodb.com/docs/
+Mongoose: https://mongoosejs.com/docs/
+Express: https://expressjs.com/en/guide/routing.html https://expressjs.com/en/guide/
