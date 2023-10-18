@@ -1,0 +1,95 @@
+body{
+    background-color:#0f3963;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.grid{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+}
+
+.number{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #0f3963;
+    font-size: 60px;
+    margin-top: 0px;
+}
+
+.sign{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+    margin-top: 0%
+}
+
+.click{
+    margin-top: 30px;
+    font-size: 12px;
+    padding: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-left: auto;
+    justify-content: space-around;
+    flex: 0 0 auto;
+    background-color: #636e3c;
+    color:white;
+    border: 0;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 600px) { /* xs */
+    body {
+        background-color: #0f3963 !important; /* Increase specificity and use !important */
+    }
+
+    .number, .sign {
+        color: #0f3963 !important; /* Increase specificity and use !important */
+    }
+
+    .container {
+        flex-direction: column; 
+        gap: 10px;
+    }
+
+    .grid {
+        background-color: white !important; /* Increase specificity and use !important */
+    }
+}
+
+@media screen and (max-width: 1024px) { /* sm */
+    body {
+        background-color: white;
+    }
+
+    .number, .sign {
+        color: white;
+    }
+
+    .container {
+        gap: 20px;
+    }
+
+    .grid {
+        background-color: #0f3963;
+        flex-basis: calc(50% - 10px); 
+    }
+}
