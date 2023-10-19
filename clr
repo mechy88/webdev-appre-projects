@@ -1,0 +1,108 @@
+[33mcommit 7edef3aa331ccdbd56202cbd96e88d9a0246f99f[m[33m ([m[1;36mHEAD -> [m[1;32mfe0-ronquillo[m[33m)[m
+Author: kylaronquillo <kylasbronquillo@gmail.com>
+Date:   Wed Oct 18 21:17:14 2023 +0800
+
+    Add: A folder named ronquillo containing index.html and style.css
+
+[33mcommit 9c571d3cb4ffc1994be1bef697d7b9a23ed4e834[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Tue Oct 17 17:22:31 2023 +0800
+
+    Add: fe1-javascript/pajarillo project accomplished
+
+[33mcommit 784d0709897231293e051d79e463735decbcb1e6[m
+Merge: 6dc12f2 0749dfb
+Author: mechy88 <101531194+mechy88@users.noreply.github.com>
+Date:   Mon Oct 16 16:04:45 2023 +0800
+
+    Merge pull request #2 from mechy88/pajarillo
+    
+    Add: added project for Javascript Backend
+
+[33mcommit 0749dfb4adceafd9c5fd42c7d5d1bbde42d4e7bb[m
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Mon Oct 16 15:26:05 2023 +0800
+
+    Add: added project for Javascript Backend
+
+[33mcommit 6dc12f22ee12a0e722917e436d41354d66817dcc[m
+Merge: 34be047 69f3035
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Thu Oct 5 17:15:05 2023 +0800
+
+    Merge branch 'main' of github.com:mechy88/webdev-appre-projects
+
+[33mcommit 34be0479305a5c3afb5e8d96762403827b26de85[m
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Thu Oct 5 17:14:37 2023 +0800
+
+    Update: modefied index.html & style.css for screen size sm & xs
+
+[33mcommit 69f303532226127ef4069090e8f19cd26f4ba47b[m
+Merge: db51ca0 5f84f19
+Author: mechy88 <101531194+mechy88@users.noreply.github.com>
+Date:   Wed Oct 4 08:34:26 2023 +0800
+
+    Merge pull request #1 from mechy88/feature/Ronquillo
+    
+    Add: Kyla's Introduction
+
+[33mcommit db51ca0ad2caa649b22b83557f640f42058d87af[m
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Tue Oct 3 11:39:42 2023 +0800
+
+    Screen size md  for HTML & CSS Project
+
+[33mcommit 5f84f191dea21813c86dd70551ff322a3b33e3d0[m
+Author: kylaronquillo <kylasbronquillo@gmail.com>
+Date:   Thu Sep 28 16:01:36 2023 +0800
+
+    Add: Ronquillo.txt for 02-documentation
+
+[33mcommit a5efbfcc061f0cd36be146d64da128db92dab934[m
+Author: kylaronquillo <kylasbronquillo@gmail.com>
+Date:   Thu Sep 28 15:46:01 2023 +0800
+
+    Add : Ronquillo.txt in 01-debugging
+
+[33mcommit d2a350edf67e4df50fb5b890e92d912b0be29bc5[m
+Author: kylaronquillo <kylasbronquillo@gmail.com>
+Date:   Thu Sep 28 15:31:18 2023 +0800
+
+    Update: File was initially empty.
+
+[33mcommit 87781455aebcdfbdb8da42897f26f77ca6769135[m
+Author: kylaronquillo <kylasbronquillo@gmail.com>
+Date:   Thu Sep 28 15:21:56 2023 +0800
+
+    Add: Kyla's Introduction
+
+[33mcommit 9746ab6d630f8b65c0150f0e1b1d7c1e1f6cd93b[m
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Thu Sep 28 10:25:46 2023 +0800
+
+    Add: included 02-documentation/Pajarillo.txt for the Documentation Project
+
+[33mcommit 2621d71228b86ee95f3ca86b0740e34ffb9b232c[m
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Thu Sep 28 09:37:24 2023 +0800
+
+    Add: included 01-debugging/Pajarillo.txt for Debugging Project
+
+[33mcommit 3fd100c1379b2a46574abee5802d0183e656dcf1[m
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Thu Sep 28 08:43:21 2023 +0800
+
+    Add: included 00-git/Pajarillo.txt as fulfilment of the Git Projct
+
+[33mcommit 1875a9cbf929f8983f9cf4b6565cf56010970065[m
+Author: mechy88 <miguelandrerepatacodo@gmail.com>
+Date:   Thu Sep 28 08:40:24 2023 +0800
+
+    Update: Modified README.md to reflect current progress of apprentices
+
+[33mcommit 54319113284be108cc3cc7a4ce824f2e1d630da3[m
+Author: mechy88 <101531194+mechy88@users.noreply.github.com>
+Date:   Thu Sep 28 08:25:00 2023 +0800
+
+    Initial commit
